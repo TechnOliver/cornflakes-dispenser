@@ -16,7 +16,7 @@ cornflakes-dispenser/
 │   │   ├── sensor houder.stl                 	# Bevestiging voor de afstandssensor
 │   │   └── servo houder 2.0.stl              	# Stevige houder voor de servo motor
 │   └── lasercut/                   			# Bestanden voor de lasersnijder (SVG)
-│       ├── binnen box.svg                    	# Het interne mechanisme frame	
+│       ├── binnen box.svg                    	# Het interne mechanisme frame
 │       └── buiten box.svg                    	# De behuizing van de machine
 └── README.md                       			# Deze handleiding
 ```
