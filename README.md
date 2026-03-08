@@ -1,6 +1,10 @@
 # Cornflakes Machine - Coolest Projects 🥣
 Dit project is een automatische cornflakes dispenser, ontworpen en gebouwd door **Oliver** voor **Coolest Projects 2026**. 
-Het combineert lasersnijwerk, 3D-geprinte onderdelen en elektronica aangestuurd door een Micro:bit.
+Het combineert lasersnijwerk, 3D-geprinte onderdelen en elektronica aangestuurd door een Micro:bit. 
+
+###Pas op### 
+De servo is nog niet sterk genoeg om de hele bak vol te kappen je moet gewoon de cilinder vol gieten. Ideën voor een volgende versie zijn een scherpe rand aan de cilinder zodat die de cornflakes kan breken. 
+Ideën zijn welkom.
 
 ## 📁 Projectstructuur
 Hieronder vind je een overzicht van hoe de bestanden in dit project zijn georganiseerd:
