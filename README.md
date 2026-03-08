@@ -43,7 +43,7 @@ De Lasercutter en 3D-printer kunt u gebruiken in een FabLab ergens in België.
 
 ### 3. Elektronica & Software
 1. upload het bestand `code/microbit-cornflakes.hex` naar je Micro:bit.
-2. Sluit de servo aan op de Micro:bit (signaal draad naar Pin 2), stroom naar 3.3v, aarding naar gnd.
+2. Sluit de servo aan op de Micro:bit (signaal draad naar Pin 2), stroom naar 5v, aarding naar gnd.
 3. Bevestig de sensor in de `sensor houder` en sluit echo aan op Pin 1, trigger op pin 3, stroom op 3.3v en aarding naar gnd. 
 4. Sluit rode led aan met een weerstand op pin 8, en stroom op 3.3v
 5. Sluit blauwe led aan met een weerstand op pin 5, en stroom op 3.3v
