@@ -29,6 +29,7 @@ cornflakes-dispenser/
   - Afstandssensor HC-SR04(om een kom te detecteren)
   - Drukknop (voor handmatige bediening)
 - **Output:** LED's van 5mm met houder van 5mm (voor status)
+- **Roulement:** uit een fidget spinner gesloopt
 
 ## 🔧 Montage instructies
 
